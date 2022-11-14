@@ -7,3 +7,6 @@ This repository built step by step in the tutorial.
 
 Now it includes  Steps for Github 
 
+Git and Github both are different. Git allows the command to communicate Github.
+
+
